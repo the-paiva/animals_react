@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@exemplo.com",
+      "password": "senha123",
+      "name": "Admin"
+    }
+  ],
+  "tutores": [
+    {
+      "id": 1,
+      "name": "Carlos Silva",
+      "email": "carlos@ex.com",
+      "phone": "11999999999"
+    }
+  ],
+  "animais": [
+    {
+      "id": 1,
+      "name": "Bob",
+      "species": "cachorro",
+      "breed": "Labrador",
+      "age": 3,
+      "tutorId": 1,
+      "photo": ""
+    }
+  ]
+}
